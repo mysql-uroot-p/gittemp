@@ -1,1 +1,5 @@
 # gittemp
+
+```sql
+Creating a new branch is quick.
+```
