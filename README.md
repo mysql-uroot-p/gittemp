@@ -11,3 +11,5 @@ How are you?
 译：你好吗？
 You are beautifull!
 译：你好漂亮！
+go go go
+译：加油 加油 加油
