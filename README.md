@@ -8,6 +8,6 @@ HELLO_WORKD
 thankyou!
 译：谢谢！
 How are you?
-译：你好吗？
+译：你怎么样？
 You are beautifull!
 译：你好漂亮！
