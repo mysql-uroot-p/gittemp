@@ -9,3 +9,5 @@ thankyou!
 译：谢谢！
 How are you?
 译：你好吗？
+You are beautifull!
+译：你好漂亮！
