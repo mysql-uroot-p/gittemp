@@ -11,3 +11,7 @@ How are you！
 译：你怎么样！
 You are beautifull!
 译：你好漂亮！
+go!
+译：加油!
+
+>>>>>>> dev
